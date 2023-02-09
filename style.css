@@ -1,0 +1,32 @@
+.disp-2{
+  font-size: 96px;
+}
+.mb-5{
+  margin-bottom: 3rem !important;
+}
+/* body */
+
+.body{
+  background-color:#c8d8e4;
+}
+
+/* main header  */
+.MainHeaderdiv{
+  background-color: #2b6777;
+  color: rgb(0, 0, 0);
+  overflow: hidden;
+  }
+/* instructions */
+.instruction{
+  margin-top: 100px;
+  color: black;
+}
+.myfooter{
+  margin-top: 100px; 
+  
+}
+#typedword{
+  color:black;
+  font-size:40px;
+}
+
